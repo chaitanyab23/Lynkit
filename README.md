@@ -20,6 +20,9 @@ ngOninit, ngOnChanges have been implemented
 when change button is clicked the text Changes
 
 
+String Interpolation is also implemented where data is fetched .
+
+
 Dependency Injection is also Created 
 with the service component
 to check go to console where 'CallAPI' will be called
